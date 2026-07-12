@@ -1,9 +1,9 @@
 {
-  "name": "one-dark-sweet",
-  "displayName": "One dark sweet",
-  "description": "A theme based on sweet colors and one dark pro syntax highlighting",
+  "name": "one-dark-miku",
+  "displayName": "One dark Miku",
+  "description": "A theme based on Miku colors and one dark pro syntax highlighting",
   "version": "1.0.0",
-  "publisher": "Vantesh",
+  "publisher": "WillyPaz",
   "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
@@ -11,15 +11,15 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vantesh/One-dark-sweet.git"
+    "url": "https://github.com/willypaz243/One-dark-miku.git"
   },
   "bugs": {
-    "url": "https://github.com/Vantesh/One-dark-sweet/issues"
+    "url": "https://github.com/willypaz243/One-dark-miku/issues"
   },
   "keywords": [
     "theme",
     "dark",
-    "sweet",
+    "miku",
     "one dark pro",
     "colors",
     "syntax",
@@ -42,9 +42,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "One dark sweet",
+        "label": "One dark Miku",
         "uiTheme": "vs-dark",
-        "path": "./themes/One dark sweet-color-theme.json"
+        "path": "./themes/One dark miku-color-theme.json"
       }
     ]
   }
