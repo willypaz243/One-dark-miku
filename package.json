@@ -6,7 +6,7 @@
   "publisher": "WillyPaz",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.90.0"
   },
   "icon": "icon.png",
   "repository": {
@@ -47,5 +47,23 @@
         "path": "./themes/One dark miku-color-theme.json"
       }
     ]
+  },
+  "packageManager": "pnpm@10.4.1",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "vsc-extension-quickstart.md",
+    "icon.png",
+    "icon.svg",
+    "themes/",
+    ".vscode/"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "validate": "vsce ls"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
   }
 }
