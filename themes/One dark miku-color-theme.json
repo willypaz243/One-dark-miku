@@ -120,50 +120,14 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "class.name": {
-      "foreground": "#48FFF4"
+    "enumMember": {
+      "foreground": "#58c1cf"
     },
-    "function.call": {
-      "foreground": "#E6EDF3"
-    },
-    "function.definition": {
-      "foreground": "#48FFF4",
-      "fontStyle": "bold"
-    },
-    "function.macro": {
-      "foreground": "#48FFF4",
-      "fontStyle": "italic"
+    "variable.constant": {
+      "foreground": "#e6a971"
     },
     "variable.defaultLibrary": {
-      "foreground": "#39C5BB"
-    },
-    "variable.readonly": {
-      "foreground": "#E6EDF3"
-    },
-    "parameter.declaration": {
-      "fontStyle": "italic"
-    },
-    "parameter.labelParameter": {
-      "fontStyle": "underline"
-    },
-    "type.defaultLibrary": {
-      "foreground": "#39C5BB"
-    },
-    "interface.name": {
-      "foreground": "#48FFF4",
-      "fontStyle": "italic"
-    },
-    "keyword.control": {
-      "foreground": "#48FFF4"
-    },
-    "keyword.operator": {
-      "foreground": "#39C5BB"
-    },
-    "variable.static": {
-      "fontStyle": "italic"
-    },
-    "function.async": {
-      "fontStyle": "italic"
+      "foreground": "#e9bd6c"
     }
   },
   "tokenColors": [
